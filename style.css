@@ -24,6 +24,10 @@ h1 {
 }
 
 img {
+    pointer-events: none;
+}
+
+img {
 	width: 600px;
 	height: 400px;
 	margin: 10px;

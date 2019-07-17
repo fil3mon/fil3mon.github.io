@@ -25,6 +25,7 @@ h1 {
 
 img {
     pointer-events: none;
+    object-fit: contain;
 }
 
 img {

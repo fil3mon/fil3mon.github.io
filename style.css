@@ -1,6 +1,6 @@
 body {
 	margin: 0px;
-	background-image: url("tapeta.jpg");
+	background-image: url("tapeta1.jpg");
 }
 
 .container {
@@ -22,7 +22,7 @@ h1 {
 	-o-box-shadow: 4px 4px 5px #888888;
 	box-shadow: 4px 4px 5px #888888;
 	margin-top: 10px;
-	background-color: #f9f6f2;
+	background-color: #eaeaea;
 }
 
 img {

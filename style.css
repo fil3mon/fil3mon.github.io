@@ -1,5 +1,6 @@
 body {
 	margin: 0px;
+	background-image: url("tapeta.jpg");
 }
 
 .container {
@@ -11,8 +12,8 @@ body {
 h1 {
 	font-family: "Indie Flower";
 	font-size: 3em;
-	border-bottom: 2px solid pink;
-	border-right: 2px solid pink;
+	border-bottom: 2px solid grey;
+	border-right: 2px solid grey;
 	width: 400px;
 	text-align: center;
 	-moz-box-shadow:4px 4px 5px #888888;
@@ -21,6 +22,7 @@ h1 {
 	-o-box-shadow: 4px 4px 5px #888888;
 	box-shadow: 4px 4px 5px #888888;
 	margin-top: 10px;
+	background-color: #f9f6f2;
 }
 
 img {
